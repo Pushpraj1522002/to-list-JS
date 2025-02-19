@@ -3,7 +3,7 @@
 - User can list the tasks and scratch the completed tasks and also can remove the tasks.
 
 Preview
-![](image.png)
+![](toDoApp/image.png)
 
 
 #### Learning
